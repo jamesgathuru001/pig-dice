@@ -1,4 +1,5 @@
-//business logic
+//business logic//
+
 var player1 = "";
 var player2 = "";
 
@@ -43,7 +44,8 @@ Player.prototype.newGame = function() {
   this.playerName = "";
 }
 
-// User Interface
+// User Interface logic//
+
 $(document).ready(function() {
 
   $("button#start").click(function(event) {
