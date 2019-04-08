@@ -38,7 +38,7 @@ An output of one results in a zero of accumulated points.
 **[Click here](https://jamesgathuru001.github.io/pig-dice/)** to see the live site.
 
 ## Known Bugs
-No bugs so far. If found, email me at developer.jamesgathuru001@gmail.com
+No bugs so far. If found, email me at jamesgathuru001@gmail.com
 
 ## Technologies Used
     1. HTML
