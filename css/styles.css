@@ -26,3 +26,17 @@ input[type=text], select {
     cursor: pointer;
 	margin-left: 30px;
 }
+.embed {
+	width : 450px;
+	height: 450px;
+	padding: 12px 20px;
+	margin: 8px 0;
+	float: right;
+	grid-column:1 / span 3;
+}
+h2 {
+	color: black;
+}
+.what {
+	float: left;
+}
