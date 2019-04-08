@@ -35,7 +35,7 @@ An output of one results in a zero of accumulated points.
  | Player can end turn by "staying", and turn total is added to banked total        | 12      | 27         |
  | First player to reach 100, wins     | 9      | 100 - You win!       |
 ## Preview
-**[Click here]()** to see the live site.
+**[Click here](https://jamesgathuru001.github.io/pig-dice/)** to see the live site.
 
 ## Known Bugs
 No bugs so far. If found, email me at developer.jamesgathuru001@gmail.com
