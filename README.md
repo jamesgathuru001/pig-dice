@@ -26,7 +26,7 @@ If the output is not a 1, a player will continue to accumulate points and can ho
 An output of one results in a zero of accumulated points.
 
 ### The first player to get 100 is the Winner!
-##BDD
+## BDD
 | Behavior                                       |  Input | Output    |
  | ---------------------------------------------- | ------ | --------- |
  | Player rolls die to get a random number    | Click button      | 5      |
