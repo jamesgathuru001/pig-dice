@@ -47,7 +47,7 @@ No bugs so far. If found, email me at developer.jamesgathuru001@gmail.com
     4. jQuery
 
 ## Support and contact details
-Contact me on developer.jamesgathuru001@gmail.com for any comments, reviews or advice.
+Contact me on jamesgathuru001@gmail.com for any comments, reviews or advice.
 
 ### License
 Copyright (c) **[James Gathuru](https://github.com/jamesgathuru001/Jemo/wiki)**
